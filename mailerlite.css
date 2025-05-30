@@ -461,6 +461,7 @@
         padding: 0.35rem 0.75rem !important;
         width: 100%;
         height: auto;
+        transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
       }
       #mlb2-26607121.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow button:hover {
         background-color: #212529 !important;
