@@ -14,7 +14,8 @@ h2 {
 }
 
 a {
-    color: #dd3333;
+    color: inherit;
+    text-decoration: underline dashed;
 }
 
 .maincontent {
