@@ -503,7 +503,7 @@
       }
       #mlb2-26607121.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow label p {
         color: #212529 !important;
-        font-family: 'Open Sans', Arial, Helvetica, sans-serif !important;
+        font-family: "Courier Prime", "Courier New", monospace;
         font-size: 12px !important;
         font-weight: normal !important;
         line-height: 18px !important;
@@ -519,13 +519,13 @@
         width: 100%;
       }
       #mlb2-26607121.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedSubmit button {
-        background-color: #212529 !important;
+        background-color: #000000 !important;
         border: none !important;
         border-radius: 0.25rem !important;
         box-shadow: none !important;
-        color: #ffffff !important;
+        color: #212529 !important;
         cursor: pointer;
-        font-family: 'Open Sans', Arial, Helvetica, sans-serif !important;
+        font-family: "Courier Prime", "Courier New", monospace;
         font-size: 14px !important;
         font-weight: 700 !important;
         line-height: 21px !important;
@@ -538,7 +538,8 @@
         display: none;
       }
       #mlb2-26607121.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedSubmit button:hover {
-        background-color: #333333 !important;
+        background-color: #212529 !important;
+        color: #ffffff;
       }
       .ml-subscribe-close {
         width: 30px;
@@ -589,26 +590,26 @@
 
       #mlb2-26607121 .ml-mobileButton-horizontal button {
 
-        background-color: #212529 !important;
+        background-color: #ffffff !important;
         border-color: #212529 !important;
         border-style: solid !important;
         border-width: 1px !important;
-        border-radius: 4px !important;
+        border-radius: 0.25rem !important;
         box-shadow: none !important;
-        color: #ffffff !important;
+        color: #212529 !important;
         cursor: pointer;
-        font-family: 'Open Sans', Arial, Helvetica, sans-serif !important;
-        font-size: 14px !important;
-        font-weight: 700 !important;
+        font-family: "Courier Prime", "Courier New", monospace;
+        font-size: 0.875rem;
+        font-weight: 400;
         line-height: 20px !important;
-        padding: 10px !important;
+        padding: 0.5rem !important;
         width: 100% !important;
 
       }
 
       @media only screen and (max-width: 500px) {
         #mlb2-26607121.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-formContent.horozintalForm {
-          padding: 0 0 10px 0 !important;
+          padding: 0 0 5px 0 !important;
         }
         .ml-hide-horizontal { display: none !important; }
         .ml-form-formContent.horozintalForm .ml-button-horizontal { display: none!important; }
