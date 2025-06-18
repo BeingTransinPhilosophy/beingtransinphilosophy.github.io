@@ -16,7 +16,8 @@ h2 {
 
 a {
     color: inherit;
-    text-decoration: underline dashed;
+    text-decoration: underline;
+    text-decoration-style: dashed;
 }
 
 .maincontent {
